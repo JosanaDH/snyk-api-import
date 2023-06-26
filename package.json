@@ -76,7 +76,7 @@
     "eslint": "7.30.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-check-file": "1.2.3",
-    "jest": "27.0.6",
+    "jest": "27.5.1",
     "nock": "^13.2.1",
     "prettier": "2.7.1",
     "semantic-release": "17.3.0",
